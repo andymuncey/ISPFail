@@ -11,7 +11,7 @@ import Foundation
 protocol Vehicle {
     
     func startEngine()
-    func accellerate()
+    func accelerate()
     func brake()
     func lightsOn()
     func indicateLeft()
